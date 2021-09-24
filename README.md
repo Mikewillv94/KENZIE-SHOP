@@ -1,5 +1,5 @@
 # Demo
-  site: https://kenzieshop-mike.vercel.app/
+  Site: https://kenzieshop-mike.vercel.app/
 
 # Getting Started with Create React App
 
